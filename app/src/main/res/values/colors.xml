@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="progress_bar_bg_color">#A2A2A2</color>
+    <color name="round_progress_bg_color">#FFFFFFFF</color>
+    <color name="plugin_emm_circle_progress_round_color">#FF6EBBF7</color>
+    <color name="plugin_emm_circle_progress_text_color">#FF6EBBF7</color>
+    <color name="plugin_emm_round_gradual_progress_outer_circle_outer_shadow_end_color">#FFFFFFFF</color>
+    <color name="plugin_emm_round_gradual_progress_outer_circle_outer_shadow_start_color">#FFCACBCD</color>
+    <color name="plugin_emm_round_gradual_progress_outer_circle_start_color">#FFD1D2D5</color>
+    <color name="plugin_emm_round_gradual_progress_outer_circle_end_color">#FFF6F6F6</color>
+    <color name="plugin_emm_round_gradual_progress_inner_circle_outer_shadow_start_color">#FFFAFAFA</color>
+    <color name="plugin_emm_round_gradual_progress_inner_circle_outer_shadow_end_color">#FFC7C9CB</color>
+    <color name="plugin_emm_round_gradual_progress_inner_circle_start_color">#FFFFFFFF</color>
+    <color name="plugin_emm_round_gradual_progress_inner_circle_end_color">#FFCCCED2</color>
+    <color name="plugin_emm_round_gradual_progress_circle_bg_color">#D4D4D4</color>
+    <color name="plugin_emm_round_gradual_progress_annulus_color">#FF54C3FF</color>
+    <color name="plugin_emm_round_gradual_progress_text_color">#FFADADAD</color>
+    <color name="plugin_emm_roll_progress_round_bg_color">#DDF0FE</color>
+</resources>
